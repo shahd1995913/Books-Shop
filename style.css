@@ -1,0 +1,119 @@
+body{
+
+background-image: url(bk.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+
+}
+
+
+main{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    font-weight: bolder;
+    display: inline;
+}
+.footer1{
+    font-family: 'Roboto', sans-serif;
+    background-color:rgba(64, 34, 24,0.7);
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+.header1{
+    font-family: 'Roboto', sans-serif;
+    background-color:rgba(64, 34, 24,0.7);
+    padding: 5%;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+#divTable{
+    background-color:rgba(64, 34, 24,0.7);
+width: 30%;
+margin: 2%;
+float: right;
+color: aliceblue;
+padding: 2%;
+
+}
+
+
+#divForm{
+
+background-color:rgba(64, 34, 24,0.7);
+    width: 40%;
+margin: 2%;
+float:left;
+color: aliceblue;
+padding: 2%;
+}
+
+*_{
+    font-family: 'Roboto', sans-serif;
+    
+
+    
+}
+
+#table1 {
+    width: 100%;
+    
+  }
+select{
+
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 6px 75px;
+    margin: 2%;
+}
+
+
+input[type=text] {
+   
+    border: 1px solid #eee;
+    border-radius: 4px;
+    resize: vertical;
+    padding: 6px 20px;
+    border: none;
+    cursor: pointer;
+
+   
+  }
+
+input[type=select] {
+   
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 6px 100px;
+    margin: 2%;
+    margin-right: 1px;
+   
+   
+  }
+  
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  input[type=submit] {
+    background-color:#C68B59;
+    color: white;
+    padding: 12px 50px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:right;
+   
+  } 
+
+  
