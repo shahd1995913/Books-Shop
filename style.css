@@ -8,7 +8,12 @@ background-repeat: no-repeat;
 
 }
 
+#Total1{
 
+text-align: center;
+  padding: 2%;
+
+}
 main{
     font-family: 'Roboto', sans-serif;
     width: 100%;
